@@ -7,8 +7,6 @@ Repository with the coordinates of the chiral-modified molecular junction of the
 Authors: 
 
 Omar Hernández-Montes (FQ-UNAM), 
-
 Ignacio L Garzon (IF-UNAM)
-
 and Jose Eduardo Barrios Vargas (FQ-UNAM)
 
